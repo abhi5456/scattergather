@@ -1,16 +1,6 @@
 #ifndef SG_DRIVER_INCLUDED
 #define SG_DRIVER_INCLUDED
 
-////////////////////////////////////////////////////////////////////////////////
-//
-//  File           : sg_driver.h
-//  Description    : This is the declaration of the interface to the 
-//                   ScatterGather driver (student code).
-//
-//   Author        : Patrick McDaniel
-//   Last Modified : Thu 03 Sep 2020 01:26:06 PM PDT
-//
-
 // Includes
 #include <sg_defs.h>
 
