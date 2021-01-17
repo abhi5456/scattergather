@@ -1,16 +1,6 @@
 #ifndef SG_DEFS_INCLUDED
 #define SG_DEFS_INCLUDED
 
-////////////////////////////////////////////////////////////////////////////////
-//
-//  File           : sg_defs.h
-//  Description    : This is the declaration of the basic data types and 
-//                   global data for the ScatterGather implementation.
-//
-//   Author        : Patrick McDaniel
-//   Last Modified : Thu 03 Sep 2020 12:22:02 PM PDT
-//
-
 // Includes
 #include <cmpsc311_log.h>
 
