@@ -1,13 +1,3 @@
-////////////////////////////////////////////////////////////////////////////////
-//
-//  File           : sg_driver.c
-//  Description    : This file contains the driver code to be developed by
-//                   the students of the 311 class.  See assignment details
-//                   for additional information.
-//
-//   Author        : Abhinav
-//   Last Modified : 12/11/20
-//
 
 // Include Files
 #include <stdlib.h>
