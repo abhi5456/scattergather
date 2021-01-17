@@ -162,7 +162,7 @@ int putSGDataBlock( SG_Node_ID nde, SG_Block_ID blk, char *block ) {
 		elapsedTime++;
 	}
 	OID_assigner++;
-    // Return successfully
+    //Return successfully
     return( 0 );
 }
 
