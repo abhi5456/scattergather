@@ -1,13 +1,3 @@
-////////////////////////////////////////////////////////////////////////////////
-//
-//  File           : sg_sim.c
-//  Description    : This is the main program for the CMPSC311 programming
-//                   assignment #2 (beginning of ScatterGather.com Internet
-//                   service code)
-//
-//   Author        : Patrick McDaniel
-//   Last Modified : Thu 03 Sep 2020 12:22:02 PM PDT
-//
 
 // Include Files
 #include <unistd.h>
