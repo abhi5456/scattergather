@@ -1,16 +1,6 @@
 #ifndef SG_CACHE_INCLUDED
 #define SG_CACHE_INCLUDED
 
-////////////////////////////////////////////////////////////////////////////////
-//
-//  File           : sg_cache.h
-//  Description    : This is the declaration of the block cache for the scatter
-//                   gather system.
-//
-//   Author        : Patrick McDaniel
-//   Last Modified : Sun 18 Oct 2020 03:53:24 PM EDT
-//
-
 // Includes
 #include <sg_defs.h>
 
